@@ -1,5 +1,6 @@
 # Trabajo Práctico Final Grupal:
-### Este repositorio es para la entrega del Trabajo Práctico Final Grupal de Introducción a Ingeniera en Computación del primer cuatrimestre.
+### Este repositorio es para la entrega del Trabajo Práctico Final Grupal de Introducción a Ingeniería en Computación del primer cuatrimestre.
+### Integrantes: Nicolás Torres Cárdenas - Valentín Mardones
 
 # Proyecto Grupal - Enunciado
 Retrocedemos en el tiempo, y estamos en el año 1985. El banco InterBanca, es una entidad
@@ -45,3 +46,12 @@ Cuenta de destino en la cual se hará la transferencia: 98765
 Saldo de la cuenta: en Pesos Argentinos 85.000 (en Soles Peruanos 3.564)
 Esta información se mantendrá constante (a excepción del saldo) durante la ejecución del
 algoritmo.
+
+**Nota: Para poner a prueba el programa implementado, teniendo en cuenta que no estamos
+manejando Base de Datos, se probará contra el siguiente usuario registrado.
+Clave: 12345
+DNI: 12345678
+Cuenta de destino en la cual se hará la transferencia: 98765
+Saldo de la cuenta: en Pesos Argentinos 85.000 (en Soles Peruanos 3.564)
+Esta información se mantendrá constante (a excepción del saldo) durante la ejecución del
+algoritmo.**
